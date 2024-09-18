@@ -1,0 +1,9 @@
+## Interface: 110002
+## Title: Takrat - PvPUtils
+## Notes: Takrat - PvPUtils
+## Author: Takrat
+## Version: 0.1
+
+Takrat-PVPUtils.xml
+Takrat-PVPUtils.lua
+Utils/Battleground/ReleaseSpiritTime.lua
