@@ -4,9 +4,12 @@ local PvPUtilsConsole = LibStub("AceConsole-3.0")
 local PvPUtilsEvent = LibStub("AceEvent-3.0")
 
 -- CREATE MODULES --
+PvPUtils:SetDefaultModuleLibraries("AceEvent-3.0");
+
 local ReleaseSpiritTime = PvPUtils:NewModule("ReleaseSpiritTime")
 local PingZoneSystem = PvPUtils:NewModule("PingZoneSystem")
 local TabEnemyPlayer = PvPUtils:NewModule("TabEnemyPlayer")
+local KillingStreaks = PvPUtils:NewModule("KillingStreaks")
 
 PvPUtilsConsole:RegisterChatCommand("pvputils", "PVPUtilsCommand")
 
@@ -25,6 +28,9 @@ function PvPUtils:OnEnable()
   end
   if TabEnemyPlayer then
     TabEnemyPlayer:Enable()
+  end
+  if KillingStreaks then
+    KillingStreaks:Enable()
   end
 end
 

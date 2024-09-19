@@ -10,3 +10,4 @@ Takrat-PVPUtils.lua
 Utils/Battleground/ReleaseSpiritTime.lua
 Utils/Battleground/PingZoneSystem.lua
 Utils/PVP/TabEnemyPlayer.lua
+Utils/PVP/KillingStreaks.lua
