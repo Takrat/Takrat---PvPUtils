@@ -7,8 +7,8 @@
 
 Takrat-PVPUtils.xml
 Takrat-PVPUtils.lua
-Utils/Battleground/ReleaseSpiritTime.lua
-Utils/Battleground/PingZoneSystem.lua
-Utils/Battleground/CapTrack.lua
-Utils/PVP/TabEnemyPlayer.lua
-Utils/PVP/KillingCombo.lua
+Modules/Battleground/ReleaseSpiritTime.lua
+Modules/Battleground/PingZoneSystem.lua
+Modules/Battleground/CapTrack.lua
+Modules/PVP/TabEnemyPlayer.lua
+Modules/PVP/KillingCombo.lua
