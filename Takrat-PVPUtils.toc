@@ -9,5 +9,6 @@ Takrat-PVPUtils.xml
 Takrat-PVPUtils.lua
 Utils/Battleground/ReleaseSpiritTime.lua
 Utils/Battleground/PingZoneSystem.lua
+Utils/Battleground/CapTrack.lua
 Utils/PVP/TabEnemyPlayer.lua
-Utils/PVP/KillingStreaks.lua
+Utils/PVP/KillingCombo.lua
